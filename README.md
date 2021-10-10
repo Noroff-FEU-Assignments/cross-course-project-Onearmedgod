@@ -1,2 +1,2 @@
-# cross-course-project-Onearmedgod
-cross-course-project-Onearmedgod created by GitHub Classroom
+# cross-course-project-Gaute-Olsen
+cross-course-project-Gaute-Olsen created by GitHub Classroom
